@@ -3,7 +3,7 @@ try:
 	from telebot import types
 	from time import sleep
 
-	bot = telebot.TeleBot('2095375506:AAH28FwvC00BtCMH5Li6n3QHfBrMw1NvtEk')
+	bot = telebot.TeleBot('5260266554:AAHlg7gQWVfFAjRr8ifwm-mtlqOIC_w8kic')
 
 	markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
 	item1 = types.KeyboardButton('Старт')
